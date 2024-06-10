@@ -1,0 +1,48 @@
+.body {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .form-control label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-control input[type="text"],
+  .form-control input[type="datetime-local"] {
+    width: 100%;
+    padding-block: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-control-check {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .form-control-check label {
+    margin-left: 5px;
+    font-weight: bold;
+  }
+
+  .form-control-cards{
+    max-height: 447px;
+    overflow: scroll;
+    overflow-x: hidden;
+
+  }
+  
+  
+  
